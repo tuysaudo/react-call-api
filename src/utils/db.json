@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Iphone 6S",
+      "desc": "Fusce risus nibh",
+      "price": "200",
+      "status": true
+    },
+    {
+      "name": "Oppo F3",
+      "desc": "Mo ta",
+      "price": "900",
+      "status": false,
+      "id": 2
+    },
+    {
+      "name": "Samsung J5 Prime",
+      "desc": "Mo ta",
+      "price": "980",
+      "status": false,
+      "id": 3
+    },
+    {
+      "id": 4,
+      "name": "Ipad Air",
+      "desc": "Mo ta",
+      "price": "1200",
+      "status": true
+    },
+    {
+      "id": 5,
+      "name": "Nokia 443",
+      "desc": "Mo ta",
+      "price": "235",
+      "status": ""
+    },
+    {
+      "id": 6,
+      "name": "Vivo 230",
+      "desc": "Viverra ut mattis ac, rhoncus ut libero. ",
+      "price": "123",
+      "status": true
+    }
+  ]
+}
